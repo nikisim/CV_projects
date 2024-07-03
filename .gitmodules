@@ -1,0 +1,3 @@
+[submodule "MegaOlymp_tasks"]
+	path = MegaOlymp_tasks
+	url = git@github.com:nikisim/MegaOlymp_tasks.git
